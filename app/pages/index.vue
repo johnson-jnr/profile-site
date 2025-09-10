@@ -29,8 +29,7 @@ useHead({ title: 'Home' });
                         </p>
                         <p class="mb-3 md:mb-4">
                             I architect software with patience and an
-                            inquisitive drive, and go beyond to understand how
-                            every piece of a system connects.
+                            inquisitive drive, always seeking to understand the underlying mechanics of systems.
                         </p>
                         <p>
                             Recently, I have worked on open source projects
