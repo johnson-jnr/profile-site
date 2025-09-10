@@ -1,0 +1,16 @@
+{
+  "name": "Johnson Towoju - Web Engineer",
+  "short_name": "JT",
+  "description": "Personal portfolio of Johnson Towoju, Web Engineer",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "theme_color": "#3B82F6",
+  "background_color": "#F8FAFC",
+  "display": "standalone",
+  "start_url": "/"
+}
