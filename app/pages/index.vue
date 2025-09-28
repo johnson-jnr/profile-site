@@ -32,7 +32,7 @@ useHead({ title: 'Home' });
                             inquisitive drive, always seeking to understand the underlying mechanics of systems.
                         </p>
                         <p>
-                            Some of my recent projects include:
+                            Recently, I have worked on these projects:
                             <a
                                 class="underline text-blue-500 hover:text-blue-700 transition-colors font-semibold"
                                 href="https://coverletteriq.com/"
