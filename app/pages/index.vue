@@ -46,7 +46,7 @@ useHead({ title: 'Home' });
                                 href="https://zapsecret.app/"
                                 target="_blank"
                                 rel="noopener noreferrer"
-                                >ZapSecrets</a
+                                >ZapSecret</a
                             >
                             and
                             <a
