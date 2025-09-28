@@ -32,8 +32,15 @@ useHead({ title: 'Home' });
                             inquisitive drive, always seeking to understand the underlying mechanics of systems.
                         </p>
                         <p>
-                            Recently, I have worked on open source projects
-                            including
+                            Some of my recent projects includes:
+                            <a
+                                class="underline text-blue-500 hover:text-blue-700 transition-colors font-semibold"
+                                href="https://coverletteriq.com/"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                >CoverLetterIQ</a
+                            >
+                            <span>, </span>
                             <a
                                 class="underline text-blue-500 hover:text-blue-700 transition-colors font-semibold"
                                 href="https://zapsecret.app/"

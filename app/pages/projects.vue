@@ -8,6 +8,46 @@ useHead({ title: 'Projects' });
         <p class="text-gray-600">A showcase of my recent work.</p>
 
         <div class="mt-6 max-w-xl space-y-4">
+
+            <NuxtLink
+                to="https://coverletteriq.com/"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="block rounded-lg border border-gray-200 bg-white p-4 hover:bg-gray-50 transition-colors relative"
+            >
+                <div class="flex gap-4 items-start">
+                    <div class="size-[38px] rounded-full shrink-0">
+                        <img
+                            src="~/assets/img/cover-logo.svg"
+                            alt="Project icon"
+                            class="w-full h-full object-cover"
+                        />
+                    </div>
+                    <div class="flex-1">
+                        <h2 class="text-lg font-medium">CoverLetterIQ</h2>
+                        <p class="text-gray-600 mt-1">
+                            AI-powered application that creates tailored cover letters by combining user resumes and inputs with AI-gathered company insights to highlight the most relevant skills and experiences. 
+                        </p>
+                    </div>
+                    <!-- Mobile-only click indicator -->
+                    <div class="lg:hidden flex items-center text-gray-400 ml-2">
+                        <svg
+                            class="w-5 h-5"
+                            fill="none"
+                            stroke="currentColor"
+                            viewBox="0 0 24 24"
+                        >
+                            <path
+                                stroke-linecap="round"
+                                stroke-linejoin="round"
+                                stroke-width="2"
+                                d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"
+                            />
+                        </svg>
+                    </div>
+                </div>
+            </NuxtLink>
+
             <NuxtLink
                 to="https://zapsecret.app/"
                 target="_blank"
